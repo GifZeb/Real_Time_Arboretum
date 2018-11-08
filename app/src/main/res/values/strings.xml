@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">LOGIN SCREEN</string>
+
+
+    <string name="login">LOGIN</string>
+    <string name="facebook">Sign in with facebook</string>
+    <string name="gmail">Sign in with Gmail</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="new_here_create_account">New here? Create account</string>
+    <string name="fb_app_id">App_ID</string>
+    <string name="fb_login_id">fb_App_ID</string>
+    <string name="submit">Submit</string>
+    <string name="please_enter_your_username_again_for_verification">Please enter your username again for verification.</string>
+    <string name="please_enter_5_digit_code_sent_to_you_on_your_mobile_number">Please enter 5 digit code sent to you on your mobile number:</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="please_enter_your_password_again">Please enter your password again</string>
+    <string name="enter_your_code_here">Enter your code here</string>
+    <string name="enter_your_fullname_here">Enter your fullname here</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="enter_your_address_here">Enter your address here</string>
+    <string name="enter_password">Enter password</string>
+    <string name="type_your_password_again">Type your password again</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading">Loading</string>
+    <string name="Open">Nursery</string>
+    <string name="Close">Nursery</string>
+    <string name="main">Main</string>
+    <string name="humidity_level">Humidity Level</string>
+    <string name="temperature_level">Temperature Level</string>
+    <string name="soil_moisture_level">Soil Moisture Level</string>
+    <string name="_88">88%</string>
+    <string name="_87">87%</string>
+    <string name="_72">72%</string>
+    <string name="already_user">already_user? Click here</string>
+    <string name="enter_password_again">enter password again</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="signup">SignUp</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="enter_your_number_here">Enter your number here</string>
+</resources>
